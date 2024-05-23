@@ -1,0 +1,17 @@
+.pyc
+/.idea
+/public
+/screenshots
+/logs
+**/allure-logs
+**/.DS_Store
+**/__pycache__
+/venv
+/env
+/temp
+*.log
+/.vscode
+**/.pytest_cache
+**/.venv
+**/.skip
+**/.vscode/settings.json
