@@ -1,0 +1,9 @@
+tests/
+├── pages/
+│   ├── cart.py
+│   ├── checkout.py
+│   └── ...
+├── test_cases/
+│   ├── test_cart.py
+│   └── ...
+...
